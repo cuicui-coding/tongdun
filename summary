@@ -1,0 +1,13 @@
+command + space => 搜索
+ctrl + ~ => 调出vs控制台
+option + command + j => 调出浏览器控制台
+shift + alt + f => 格式化
+git pull/push origin octopus-open =>拉取／提交远程分支
+git branch => 查看分支
+git checkout master => 切到主分支
+source ~/.bash
+go run main.go => 启服务
+npm run hotstart
+
+
+
